@@ -1,8 +1,8 @@
 # Primeiro Trabalho de Codificação
 
 
-## Material complementar para melhor leitura do livro:
-## "Introdução à Orientação a Objetos com C++ e Python - Uma abordagem prática"
+## Material complementar para o projeto da disciplina Redes de Computadores II na FHO-Uniararas:
+
 
 O Modelo OSI (acrônimo do inglês Open System Interconnection) é um modelo de rede de
 computador referência da ISO dividido em camadas de funções, criado em 1971 e
